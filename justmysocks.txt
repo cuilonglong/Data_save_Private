@@ -1,0 +1,16 @@
+c7s1.jamjams.net -> 199.19.111.123
+c7s2.jamjams.net -> 192.69.93.70
+c7s3.jamjams.net -> 192.69.90.5
+c7s4.jamjams.net -> 104.128.83.100
+c7s5.jamjams.net -> 199.115.229.253
+
+
+
+支持的协议 仅TCP [ 帮助 ]
+ShadowSocks加密 AES-256-CFB
+ShadowSocks端口 57266
+ShadowSocks密码 dVF2aSJ5EV
+
+
+
+199.19.111.123:57266
